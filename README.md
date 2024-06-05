@@ -3,9 +3,9 @@
 
 <h1>📈 Features</h1>
 <p>
-  1. Capture video stream from OBS virtual camera.
-  2. Set the capture resolution.
-  3. Capture and process frames using OpenCV.
+  1. Capture video stream from OBS virtual camera.<br/>
+  2. Set the capture resolution.<br/>
+  3. Capture and process frames using OpenCV.<br/>
   4. Easy integration with other projects.
 </p>
 
