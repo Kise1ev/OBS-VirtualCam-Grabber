@@ -2,12 +2,10 @@
 <h3>OBSGrabber is a Python library for capturing a video stream from an OBS (Open Broadcaster Software) virtual camera. It allows you to easily capture frames and process them using OpenCV. This can be useful for various applications such as streaming, video conferencing or video content creation.</h3>
 
 <h1>📈 Features</h1>
-<p>
-  1. Capture video stream from OBS virtual camera.<br/>
-  2. Set the capture resolution.<br/>
-  3. Capture and process frames using OpenCV.<br/>
-  4. Easy integration with other projects.
-</p>
+<h3>1. Capture video stream from OBS virtual camera.</h3>
+<h3>2. Set the capture resolution.</h3>
+<h3>3. Capture and process frames using OpenCV.</h3>
+<h3>4. Easy integration with other projects.</h3>
 
 <h1>🔨 Framework</h1>
 <p>
