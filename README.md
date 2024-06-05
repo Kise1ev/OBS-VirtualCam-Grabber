@@ -16,8 +16,8 @@
 </p>
 
 <h1>📜 Requirements</h1>
-<h3>1. You must have <a href="https://obsproject.com/download">OBS</a> installed.</h3>
-<h3>2. You need to install <a href="https://obsproject.com/forum/resources/obs-virtualcam.949/">Virtual Camera</a> for OBS.</h3>
+<h3>1. You must have <a href="https://obsproject.com/download">OBS Studio</a> installed.</h3>
+<h3>2. You need to install <a href="https://obsproject.com/forum/resources/obs-virtualcam.949/">Virtual Camera</a> for OBS Studio.</h3>
 
 <h1>📦 Assembling</h1>
 <h3>1. Unpack the archive OBS-VirtualCam-Grabber-master.zip</h3>
